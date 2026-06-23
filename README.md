@@ -10,4 +10,4 @@ Learning Git and GitHub
 -Git Pull
 -Git Upstream
 
-This line was added in rupal branch.
+This line was added from rupal branch.
